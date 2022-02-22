@@ -74,5 +74,9 @@ button:before {
     background: #3a0ca3;
     transition: background 0s;
    }
-
+@media screen and (max-width:680px) {
+    .sub-container{
+        width: 90%;
+    }
+}
 
